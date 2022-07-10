@@ -23,7 +23,7 @@ The first open, large-scale, multi-instrument music dataset
 ## Baseline system
 
 
-<img src="https://github.com/hchen605/fixmatch_music_inst_cls/blob/master/fig/bs.png" width="6000" height="400" />
+<img src="https://github.com/hchen605/fixmatch_music_inst_cls/blob/master/fig/bs.png" width="5000" height="400" />
 
 ## FixMatch
 
@@ -51,4 +51,4 @@ F1 score vs Dataset label distribution
 - More neg labels not helpful
 - FixMatch improve few pos label instrument
 
-<img src="https://github.com/hchen605/fixmatch_music_inst_cls/blob/master/fig/f1_data.png" width="1100" height="400" />
+<img src="https://github.com/hchen605/fixmatch_music_inst_cls/blob/master/fig/f1_data.png" width="1000" height="400" />
