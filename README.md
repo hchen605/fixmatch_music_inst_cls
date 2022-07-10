@@ -23,7 +23,7 @@ The first open, large-scale, multi-instrument music dataset
 ## Baseline system
 
 
-<img src="https://github.com/hchen605/fixmatch_music_inst_cls/blob/master/fig/bs.png" width="6000" height="500" />
+<img src="https://github.com/hchen605/fixmatch_music_inst_cls/blob/master/fig/bs.png" width="6000" height="400" />
 
 ## FixMatch
 
